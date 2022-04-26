@@ -42,6 +42,7 @@ function App() {
           </div>
           <div className="aqui">
             <img src="https://gramaticas.marcoele.com/papeles/adverbios/adverbio/adverbio-de-lugar/files/image_stack_img-28.jpg" height="60" width="auto" alt=""></img>
+            <p>Debo leer este input y para pasarle el dato por la var "autorizado"</p>
             <input type="text" id="userName"></input>
           </div>
           <p className="sarUsuario">{autorizado}</p>
